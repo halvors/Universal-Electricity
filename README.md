@@ -5,12 +5,13 @@ Copyright (c) 2011-2014 Calclavia
 
 Universal Electricity's website can be found at www.universalelectricity.com. All downloads of the API are there.
 
-Documentation: https://github.com/Universal-Electricity/Universal-Electricity/wiki
 
 #### Developers
 * Calclavia http://www.patreon.com/calclavia
 * DarkGuardsman http://www.patreon.com/darkcow 
 
+#### NO LONGER MAINTAINED
+It has been merged into Resonant Engine.
 
 Support
 ======
